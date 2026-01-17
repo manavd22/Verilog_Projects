@@ -59,27 +59,13 @@ A clean implementation of Booth's algorithm for signed multiplication, demonstra
 - Signed number handling
 - Efficient hardware design
 - Algorithm optimization
-
----
-
-## 📊 Project Comparison
-
-| Aspect                | Traffic Light Controller | Booth's Multiplier |
-|----------------------|-------------------------|-------------------|
-| **Complexity**       | Intermediate-Advanced   | Intermediate      |
-| **RTL Lines**        | ~250                    | ~70              |
-| **Total Lines**      | ~600                    | ~190             |
-| **States**           | 8                       | 3                |
-| **Test Cases**       | 6 scenarios             | 15 tests         |
-| **Primary Focus**    | Control Logic, FSM      | Arithmetic, Datapath |
-| **Application**      | Embedded Systems        | Processor ALU    |
-
+  
 ---
 
 ## 🛠️ Technology Stack
 
 ### Languages & Tools
-- **HDL:** Verilog (IEEE 1364-2005)
+- **HDL:** Verilog
 - **Simulation:** Xilinx Vivado
 
 ### Design Methodology
@@ -118,9 +104,4 @@ A clean implementation of Booth's algorithm for signed multiplication, demonstra
 
 
 <div align="center">
-
-### Ready to Impress VLSI/Semiconductor Recruiters! 🚀
-
-**Professional | Complete | Verified**
-
 </div>
